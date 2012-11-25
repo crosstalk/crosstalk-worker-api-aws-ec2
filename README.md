@@ -19,18 +19,19 @@ crosstalk-worker-api-aws-ec2
 
 [~crosstalk.api.aws.signature.version2](/crosstalk/crosstalk-worker-api-aws-signature-version2/wiki/api.aws.signature.version2) - Requests an AWS Version 2 Signature to sign API requests with
 
+## http.in
+
+None
+
 ## http.out
 
 None
 
-## http.in
+## https.in
 
 None
 
 ## https.out
 
-`https://ec2.amazonaws.com` - For communicating with AWS EC2 API
+`ec2.amazonaws.com` - For communicating with AWS EC2 API
 
-## https.in
-
-None
