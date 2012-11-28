@@ -1,0 +1,25 @@
+{
+  "name": "crosstalk-worker-api-aws-ec2",
+  "version": "0.0.0",
+  "description": "Crosstalk worker for interaction with AWS EC2 API",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:crosstalk/crosstalk-worker-api-aws-ec2.git"
+  },
+  "keywords": [
+    "crosstalk",
+    "worker",
+    "aws",
+    "ec2"
+  ],
+  "author": "Crosstalk Systems Inc. <developers@crxtalk.com>",
+  "maintainers": [
+    "Tristan Slominski <tristan.slominski@gmail.com>"
+  ],
+  "crosstalk": {
+    "type": "worker"
+  },
+  "license": "MIT",
+  "private": true
+}
