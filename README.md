@@ -3,6 +3,12 @@ crosstalk-worker-api-aws-ec2
 
 `crosstalk-worker-api-aws-ec2` is a Crosstalk worker for interacting with AWS EC2 API
 
+## Configuration
+
+```json
+{}
+```
+
 ## crosstalk.on
 
 [api.aws.ec2.describeInstances](/crosstalk/crosstalk-worker-api-aws-ec2/wiki/api.aws.ec2.describeInstances) - Describe instances
